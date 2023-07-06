@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ext-pdo_sqlite": "*",
+        "ext-mbstring": "*",
+        "phpunit/phpunit": "^9.5"
+    }
+}
